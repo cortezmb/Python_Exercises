@@ -10,3 +10,4 @@ while want_coin == "yes":
     want_coin = input("Do you want another, yes or no? ")
 else:
     print("Bye")
+    
